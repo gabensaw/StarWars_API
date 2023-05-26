@@ -1,4 +1,4 @@
-# Data 31 Star Wars Project
+# Star Wars API Project
 
 ## Instructions
 
